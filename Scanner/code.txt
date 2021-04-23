@@ -1,0 +1,2 @@
+{begin if (name != name_2) then writeln(<<22>>) else writeln(true)}
+float;
