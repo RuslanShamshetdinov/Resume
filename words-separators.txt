@@ -1,0 +1,2 @@
+begin end if else for to step next while read readln writeln true false 
+( ) := , ; { } + - * / && != == < > <= >= : 
