@@ -1,5 +1,5 @@
 # String calculator
-  A program that implements a string calculator.
+  A program that implements a string calculator.  
     Input data:
     Either a string with a mathematical expression, or the initialization of a variable (by default, the variable can be one of the letters of the English alphabet)
     Algorithm:
