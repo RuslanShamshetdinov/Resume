@@ -1,5 +1,5 @@
 # Project motorboat
-These programs were designed to write a term paper on "Hierarchy of Classes". Thanks to these small programs, such aspects of the C++ language were mastered:  
+These programs were designed to write a term paper on "Hierarchy of Classes". I used the aspects of the C++ language:  
 1. Inheritance 
 2. Classes in C++
 3. Constructors
