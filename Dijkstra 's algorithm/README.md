@@ -2,7 +2,8 @@
 A program that implements the Dijkstra algorithm on an arbitrary graph,
 represented as a adjacency matrix or adjacency list.
 1. Input data:
-    An input file with a description of the graph. The input file should have the following form:
+      
+        An input file with a description of the graph. The input file should have the following form:
     ``` 
     n
     type
