@@ -1,4 +1,4 @@
-# Список проектов
+# List of projects
 1. Bringing grammar to the normal form of Chomsky; 
 2. Company data structure;
 3. Compiler;
