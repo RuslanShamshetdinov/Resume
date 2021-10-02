@@ -1,8 +1,8 @@
 # Converting real numbers to binary notation
-Программы, реализующие перевод вещественного числа в его двоичное представление.  
-1. Входные данные:  
+Programs that convert real numbers to binary notation.  
+1. Input data:  
 -type number  
-Где type – тип числа (float/double), number – исходное число  
-2. Способы реализации:  
-    * Первая программа использует классический алгоритм перевода с расчетом экспоненты и мантиссы;  
-    * Вторая программа использует union.  
+Where type is the type of number (float/double), number is the original number  
+2. Methods of implementation:  
+    * The first program uses the classical translation algorithm with exponent and mantissa calculation;  
+    * The second program uses union.  
