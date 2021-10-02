@@ -32,19 +32,19 @@ The rules, operations, and expressions of the model language are as follows:
     <type>::= % | ! 
 6. A rule defining a program operator 
     <operator>::= <compound> | <assignment> | <conditional> | <fixed_cycle> | <conditional_cycle> | <input> | <output>  
-* Compound operator syntax  
+   * Compound operator syntax  
     <compound>::= begin <operator> { ; <operator> } end
-* Assignment operator syntax  
+   * Assignment operator syntax  
     <assignment>::= <identifier> := <expression> 
-* Conditional assignment operator syntax  
+   * Conditional assignment operator syntax  
     <assignment>::= <identifier> := <expression> 
-* Syntax of a fixed number of repetitions loop operator  
+   * Syntax of a fixed number of repetitions loop operator  
     <fixed_cycle>::= for <assignment> to <expression> [step <expression>] <operator> next
-* Syntax of conditional loop operator  
+   * Syntax of conditional loop operator  
     <conditional_cycle>::= while (<expression>) <operator> 
-* Syntax of operator input  
+   * Syntax of operator input  
     <input>::= readln identifier {, <identifier> } 
-* Output statement syntax  
+   * Output statement syntax  
     <output>::= writeln <expression> {, <expression> } 
 7. Syntax of multiline comments
     * Comment start sign - /*
