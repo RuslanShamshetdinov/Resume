@@ -1,8 +1,8 @@
 # Compiler
 A program that implements a model language compiler.  
 Objectives:  
-1. To develop a software tool that implements lexical analysis of the program text in the input language;
-2.  To implement syntactic analyzer of program text in model language by recursive descent method;  
+* To develop a software tool that implements lexical analysis of the program text in the input language;
+*  To implement syntactic analyzer of program text in model language by recursive descent method;  
 Formal Problem Model:  
 The rules, operations, and expressions of the model language are as follows:  
 1. language operations:
