@@ -49,7 +49,7 @@ The rules, operations, and expressions of the model language are as follows:
 7. Syntax of multiline comments
     * Comment start sign - /*
     * The sign of the end of the comment - */  
-Algorithm:
+Algorithm:  
 Lexical analyzer - a string with code is given as an input 
     * Read from file the keywords and separators, and write them into vectors
     * Read from the file the source program code, split the line on tokens using regular expression, check tokens belonging
