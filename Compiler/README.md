@@ -4,7 +4,7 @@ Objectives:
 * To develop a software tool that implements lexical analysis of the program text in the input language;
 * To implement syntactic analyzer of program text in model language by recursive descent method;  
 Formal Problem Model:  
-The rules, operations, and expressions of the model language are as follows:  
+The rules, operations, and expressions of the model language are as follows:
 1. language operations:
     * Syntax of the "relation" group of operations (in order: unequal, equal, less than, or equal to, greater than, greater than, or equal to)  
     <relationship_group_operations>::: = != | = | < |= | > | >=  
