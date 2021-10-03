@@ -51,12 +51,12 @@ The rules, operations, and expressions of the model language are as follows:
     * Comment start sign - /*
     * The sign of the end of the comment - */.  
 
-Algorithm:
-Lexical analyzer - a string with code is given as an input 
-    * Read from file the keywords and separators, and write them into vectors
-    * Read from the file the source program code, split the line on tokens using regular expression, check tokens belonging
-    to lists of keywords and delimiters, forming of an individual code for each token and writing it into a vector
-2. Syntactic analyzer - a vector with lexeme codes as the input
+Algorithm:  
+Lexical analyzer - a string with code is given as an input  
+    * Read from file the keywords and separators, and write them into vectors  
+    * Read from the file the source program code, split the line on tokens using regular expression, check tokens belonging  
+    to lists of keywords and delimiters, forming of an individual code for each token and writing it into a vector  
+2. Syntactic analyzer - a vector with lexeme codes as the input  
     * Description of the syntax of programming language constructions with the help of context free grammars and Backus-Naur form of notation:  
         For my version, the grammar looks as follows:  
             1. P → {D2}  
