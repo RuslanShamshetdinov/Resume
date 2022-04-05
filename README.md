@@ -5,7 +5,6 @@
 4. Converting real numbers to binary notation;
 5. Data structure match information;
 6. Dijkstra 's algorithm
-7. Project motorboat
 8. String Calculator
 9. Mechanism of inter-process interaction 
  
